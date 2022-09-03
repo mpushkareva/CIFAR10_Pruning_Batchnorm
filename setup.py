@@ -4,7 +4,7 @@ from distutils.core import setup
 from setuptools import find_packages
 
 
-setup(name='CIFAR10_Pruning_Batchnorm',
+setup(name='train_utils',
       version='1.0',
       packages=find_packages(),
       description='Add pruning, train and test model', 
